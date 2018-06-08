@@ -9,4 +9,4 @@ swiftc -o json2csv main.swift
 ```
 
 ## Usage
-`./JSON2CSV /path/to/source.json /path/to/dest.csv`
+`./json2csv /path/to/source.json /path/to/dest.csv`
